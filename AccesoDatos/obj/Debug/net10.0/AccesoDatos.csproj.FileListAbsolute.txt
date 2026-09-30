@@ -1,0 +1,13 @@
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.csproj.AssemblyReference.cache
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.AssemblyInfoInputs.cache
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.AssemblyInfo.cs
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.csproj.CoreCompileInputs.cache
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.sourcelink.json
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/bin/Debug/net10.0/AccesoDatos.deps.json
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/bin/Debug/net10.0/AccesoDatos.dll
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/bin/Debug/net10.0/AccesoDatos.pdb
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.dll
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/refint/AccesoDatos.dll
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/AccesoDatos.pdb
+/Users/danielrodriguez/Documents/Parcial 2 Programacion/Parcial2Programacion/AccesoDatos/obj/Debug/net10.0/ref/AccesoDatos.dll
