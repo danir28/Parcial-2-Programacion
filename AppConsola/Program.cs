@@ -1,8 +1,10 @@
 using AccesoDatos.Data;
 using AccesoDatos.Models;
 using AccesoDatos.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 var context = new AplicacionDbContext();
+context.Database.Migrate();
 IGenericRepository<Artista> artistaRepository = new GenericRepository<Artista>(context);
 CancionRepository cancionRepository = new CancionRepository(context);
 
